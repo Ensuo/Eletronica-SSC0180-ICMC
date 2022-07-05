@@ -16,6 +16,7 @@
 | 1 | Capacitor 470µF 35V | R$2,89|
 | 2 | Resistor 1k | 2 * R$0,07| 
 | 1 | Diodo Zener 1N4743 | R$0,48|
+| 1 | Transformador |  Emprestado |
 | Total |  | R$12,50 |
 
 ## Simulação do circuito 
