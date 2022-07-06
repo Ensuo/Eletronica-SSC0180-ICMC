@@ -23,7 +23,7 @@
 ### Falstad
   
 ![circuit-20220705-1516](https://user-images.githubusercontent.com/63194069/177390825-6b8b353f-3970-4a22-9616-3ed0095e1c0d.png)
-https://tinyurl.com/2rypnkuw
+Link do Falstad: https://tinyurl.com/2rypnkuw
 ### Eagle
 
 ## Cálculos
