@@ -20,10 +20,15 @@
 | Total |  | R$12,50 |
 
 ## Simulação do circuito 
-### Falstad
+## Falstad
   
 ![circuit-20220705-1516](https://user-images.githubusercontent.com/63194069/177390825-6b8b353f-3970-4a22-9616-3ed0095e1c0d.png)
 Link do Falstad: https://tinyurl.com/2rypnkuw
-### Eagle
+## Schematic do circuito no EAGLE
+![WhatsApp Image 2022-07-06 at 10 37 04 PM](https://user-images.githubusercontent.com/63194069/177671768-ea638e85-0f87-4b28-b895-7afce93e5897.jpeg)
+
+## PCB do circuito no EAGLE
+
+![WhatsApp Image 2022-07-06 at 10 38 01 PM](https://user-images.githubusercontent.com/63194069/177671774-51a70cc4-c133-4d86-b28d-4d8a40757e26.jpeg)
 
 ## Cálculos
