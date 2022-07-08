@@ -29,4 +29,9 @@ Link do Falstad: https://tinyurl.com/2rypnkuw
 
 ## PCB do circuito no EAGLE
 ![WhatsApp Image 2022-07-06 at 10 37 04 PM](https://user-images.githubusercontent.com/63194069/177671878-ee03e977-1c0e-4f3c-9518-bf797f1c46cf.jpeg)
-## Cálculos
+
+## Protoboard
+![WhatsApp Image 2022-07-08 at 15 32 37](https://user-images.githubusercontent.com/63194069/178050906-4f26a18c-93f4-4d12-b638-8429d2f99865.jpeg)
+
+
+ 
