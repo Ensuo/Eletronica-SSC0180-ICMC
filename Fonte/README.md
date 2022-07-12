@@ -26,15 +26,16 @@
 
 Link do Falstad: https://tinyurl.com/2rypnkuw
 ## Schematic do circuito no EAGLE
-![WhatsApp Image 2022-07-06 at 10 38 01 PM](https://user-images.githubusercontent.com/63194069/177671862-bcee10c7-3e34-474a-af77-e531bb79d798.jpeg)
+![Eagle-Schematic](https://user-images.githubusercontent.com/63194069/178553747-186dd724-b474-4204-b8d7-cd11a39340ed.png)
+
 
 ## PCB do circuito no EAGLE
-![WhatsApp Image 2022-07-06 at 10 37 04 PM](https://user-images.githubusercontent.com/63194069/177671878-ee03e977-1c0e-4f3c-9518-bf797f1c46cf.jpeg)
+![PCB-Eagle](https://user-images.githubusercontent.com/63194069/178554509-31e22cb8-af98-4569-abc2-579e3b9c703a.png)
+
 
 ## Protoboard
+![WhatsApp Image 2022-07-12 at 9 49 12 AM(1)](https://user-images.githubusercontent.com/63194069/178554686-449d7cf8-db42-45e5-82b3-374313c3321c.jpeg)
 ![WhatsApp Image 2022-07-12 at 09 47 50(1)](https://user-images.githubusercontent.com/63194069/178503417-1e374c45-ebe2-4a18-a463-a552c1505f87.jpeg)
-
-
 
 ## Link do Vídeo 
 https://youtu.be/2b_EgAxMEb4
