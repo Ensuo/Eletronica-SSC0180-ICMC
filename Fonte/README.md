@@ -21,8 +21,9 @@
 
 ## Simulação do circuito 
 ## Falstad
-  
-![circuit-20220705-1516](https://user-images.githubusercontent.com/63194069/177390825-6b8b353f-3970-4a22-9616-3ed0095e1c0d.png)
+
+![circuit-20220712-1031](https://user-images.githubusercontent.com/49030518/178502025-00dd999f-6535-42fd-a87b-b9c3bfe160a5.png)
+
 Link do Falstad: https://tinyurl.com/2rypnkuw
 ## Schematic do circuito no EAGLE
 ![WhatsApp Image 2022-07-06 at 10 38 01 PM](https://user-images.githubusercontent.com/63194069/177671862-bcee10c7-3e34-474a-af77-e531bb79d798.jpeg)
