@@ -32,7 +32,9 @@ Link do Falstad: https://tinyurl.com/2rypnkuw
 ![WhatsApp Image 2022-07-06 at 10 37 04 PM](https://user-images.githubusercontent.com/63194069/177671878-ee03e977-1c0e-4f3c-9518-bf797f1c46cf.jpeg)
 
 ## Protoboard
-![WhatsApp Image 2022-07-08 at 15 32 37](https://user-images.githubusercontent.com/63194069/178050906-4f26a18c-93f4-4d12-b638-8429d2f99865.jpeg)
+![WhatsApp Image 2022-07-12 at 09 47 50(1)](https://user-images.githubusercontent.com/63194069/178503417-1e374c45-ebe2-4a18-a463-a552c1505f87.jpeg)
+
+
 
 ## Link do Vídeo 
 https://youtu.be/2b_EgAxMEb4
