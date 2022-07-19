@@ -2,7 +2,8 @@
 
 
 ## Circuito Arduino
-![final_breadboard_(1)_wyUFS6d8A6](https://user-images.githubusercontent.com/63194069/179756288-917d51bd-5257-4dad-9da3-be56e28ff0f0.png)
+![Grand Kup](https://user-images.githubusercontent.com/49030518/179756431-0ebf0138-9785-4c23-adb8-c94adddbdcbe.png)
+
 
 ## Imagens
 
