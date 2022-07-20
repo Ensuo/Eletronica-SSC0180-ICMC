@@ -38,5 +38,5 @@ Link do Falstad: https://tinyurl.com/2rypnkuw
 ![WhatsApp Image 2022-07-12 at 09 47 50(1)](https://user-images.githubusercontent.com/63194069/178503417-1e374c45-ebe2-4a18-a463-a552c1505f87.jpeg)
 
 ## Link do Vídeo 
-https://youtu.be/2b_EgAxMEb4
+https://youtu.be/vq5_V1Rq8_c
  
