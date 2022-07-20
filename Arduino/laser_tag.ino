@@ -1,55 +1,48 @@
-// C++ code
+
 #include <Servo.h>
-byte phres[3] = {A0, A1, A2};
- 
-int sensorValue = 0;
-int index = 0;
-int score = 0;
- 
-Servo servo_A3;
-Servo servo_A4;
-Servo servo_A5;
-Servo S[3] = {servo_A3, servo_A4, servo_A5};
- 
+byte phres[2] = {A0, A1};
+
+
+int i = 0;
+int val;
+
+
+Servo servo_1;
+Servo servo_2;
+
 void setup()
 {
   pinMode(A0, INPUT);
   pinMode(A1, INPUT);
-  pinMode(A2, INPUT);
-  servo_A3.attach(A3);
-  servo_A4.attach(A4);
-  servo_A5.attach(A5);
-  pinMode(13, OUTPUT);
-  S[0].write(0);
-  S[1].write(0);
-  S[2].write(0);
+  servo_1.attach(9);
+  servo_2.attach(10);
   Serial.begin(9600);
   randomSeed(analogRead(A3));
-  index = random(0,3);
-  rand_up(index);
+  i = random(0, 2);
+  servo_1.write(50);
+  servo_2.write(50);
 }
- 
-void rand_up(int index){
-  S[index].write(90);
-}
- 
-void rand_down(int index){
-  S[index].write(0);
-}
- 
+
+
 void loop()
 {
-  sensorValue = analogRead(phres[index]);
-  if(sensorValue > 150){
-    digitalWrite(13, HIGH);
-    rand_down(index);
-    delay(1000);
-    score = score + 1;
-    Serial.print(score);
-    digitalWrite(13, LOW);
-    index = random(0,3);
-    rand_up(index);
+  val = analogRead(phres[i]);
+
+  if (val > 200) {
+    if (i == 0){
+      servo_1.write(0);
+    }else{
+      servo_2.write(0);
+    }
+    Serial.print(val);  
+  } else {
+    servo_1.write(50);
+    servo_2.write(50);
+    i = random(0,2);
+    Serial.print(val);
   }
-  //Serial.print(sensorValue);  <-- for checking Photoresistor input
-  delay(1000); // Wait for 1000 millisecond(s)
+  Serial.print(" ");
+  
+  
+  delay(1000);
 }
