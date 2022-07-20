@@ -1,6 +1,5 @@
 ## Projeto: Magic Arduino
-Projeto similar ao conceito de laser tag. Em tempos aleatórios, uma das miras levanta. e o indivíduo deve mirar seu laser, acertando a mira.
-Caso acertar a mira, ela desce, e outra levanta. Cada vez que um acerto é feito, um ponto é adicionado.
+Com ideia semelhante ao 8 Magic Ball, você faz uma pergunta para o Magic Arduino, e para receber sua resposta, aponte uma lanterna para um dos fotoresistores na protoboard! A resposta escolhida pelo Magic Arduino será representada pela placa que foi levantada, podendo a resposta ser sim ou não.
 
 ## Circuito Arduino
 ![Grand Kup](https://user-images.githubusercontent.com/49030518/179756431-0ebf0138-9785-4c23-adb8-c94adddbdcbe.png)
