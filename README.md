@@ -1,5 +1,5 @@
 # Eletronica-SSC0180-ICMC
-Pasta geral com ambos os projetos da fonte de tensão ajustável e do jogo Hit the Target, feito com arduino.
+Pasta geral com ambos os projetos da fonte de tensão ajustável e do Magic Arduino.
 
 Membros do grupo:
 - Enzo Yasuo Hirano Harada 13781841
