@@ -1,4 +1,4 @@
-## Software
+## Projeto: Magic Arduino
 Projeto similar ao conceito de laser tag. Em tempos aleatórios, uma das miras levanta. e o indivíduo deve mirar seu laser, acertando a mira.
 Caso acertar a mira, ela desce, e outra levanta. Cada vez que um acerto é feito, um ponto é adicionado.
 
