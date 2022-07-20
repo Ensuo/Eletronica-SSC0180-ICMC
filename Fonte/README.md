@@ -2,8 +2,8 @@
   Esse projeto foi desenvolvido para o curso SSC0180 - Eletrônico para Computação, ministrado pelo professor Eduardo do Valle Simões no ICMC.
 
 ## Especificação
-  Fonte reguladora de tensão variável, espera uma entrada de 127V com frequência de 60hz. Gera uma tensão regulável de 3V até 12V, com uma corrente de 
-  no mínimo 100mA.
+  Fonte reguladora de tensão variável, espera uma entrada de 127V em tensão alternada, a uma frequência de 60hz. Gera uma tensão regulável de 3V até 12V, com uma corrente de 
+  no mínimo 100mA na tensão máxima.
 
 ## Lista de componentes
 
