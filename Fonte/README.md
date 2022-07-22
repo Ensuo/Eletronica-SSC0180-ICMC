@@ -12,9 +12,11 @@
 |  1|  LED Difuso 5mm Vermelho 	 |  R$0,50 |
 |  4 |  Diodo 1N4007 | 4 * R$0,20 |
 |  1| Transistor NPN BC337-40 | R$0,69|
-|  1 | Potênciometro linear de 10 k| R$7,00|
+|  1 | Potênciometro linear de 10 k&Omega; | R$7,00|
 | 1 | Capacitor 470µF 35V | R$2,89|
-| 2 | Resistor 1k | 2 * R$0,07| 
+| 2 | Resistor 1 k&Omega; | 2 * R$0,07|
+| 2 | Resistor 2,7 k&Omega; | Emprestado |
+| 1 | Resistor 4,7 k&Omega; | Emprestado |
 | 1 | Diodo Zener 1N4743 | R$0,48|
 | 1 | Transformador |  Emprestado |
 | Total |  | R$12,50 |
