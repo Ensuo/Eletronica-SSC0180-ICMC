@@ -1,7 +1,16 @@
-## Projeto: Magic Arduino
-Com ideia semelhante ao 8 Magic Ball, você faz uma pergunta para o Magic Arduino, e para receber sua resposta, aponte uma lanterna para um dos fotoresistores na protoboard! A resposta escolhida pelo Magic Arduino será representada pela placa que foi levantada, podendo a resposta ser sim ou não.
+# Projeto: Magic Arduino
+Com ideia semelhante ao 8 Magic Ball, você faz uma pergunta para o Magic Arduino, e para receber sua resposta, aponte uma lanterna para os fotoresistores na protoboard! A resposta escolhida pelo Magic Arduino será gerada aleatoriamente pelo programa e indicada pela placa a ser levantada, podendo a resposta ser sim ou não.
 
-## Circuito Arduino
+## Laser Tag
+A priori, o projeto se tratava de um jogo laser tag, que consistia em levantar placas com um fotoresistor acoplado em cada uma, de forma que a placa levantada seria baixada ao receber luz de um laser pointer e a pontuação do jogador seria atualizada no programa, podendo ser vista pelo computador que serviria de fonte para o arduino. O circuito para o jogo pode ser verificado na imagem abaixo:
+
+![laser-tag](https://user-images.githubusercontent.com/49030518/180500491-9c591c44-f0b7-432c-a378-38d189dc2b7d.png)
+
+No entanto, apesar da simulação do jogo funcionar perfeitamente, utilizando o código do arquivo laser_tag.ino, ao montar o circuito fisicamente, já não se obtia um resultado minimamente razoável. De fato, dependendo da placa a ser levantada (escolhida aleatoriamente no programa), o servo motor correspondente não realizava o movimento, apesar do fotoresistor indicar ao computador a diferença de corrente devido à luminosidade. Após reduzir o circuito e testar diretamente cada servo motor, pudemos concluir que o problema com o circuito seria por mal contato nos conectores de alguns dos motores. Nesse caso optamos por simplificar o projeto retirando o motor que apresentava mais problemas de mal contato e mantendo os dois que funcionavam bem, ficando com apenas dois alvos para o jogo.
+
+Contudo, outro fator dificultante acabou surgindo no decorrer da construção do circuito simplificado: os fotoresistores apresentavam alguns problemas de mal contato com os fios caso os colocássemos para se moverem com os alvos. Em função disso, resolvemos mudar um pouco a natureza do projeto, mas manter o circuito, chegando à forma final do projeto: o Magic Arduino.
+
+## Magic Arduino
 ![Grand Kup](https://user-images.githubusercontent.com/63194069/180074680-c0cee6b9-4fec-4b89-a5a4-38c3d392d31e.png)
 
 ## Imagens
