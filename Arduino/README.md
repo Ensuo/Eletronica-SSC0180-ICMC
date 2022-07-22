@@ -24,6 +24,9 @@ Contudo, outro fator dificultante acabou surgindo no decorrer da construção do
 
 
 ## Link do video
+https://user-images.githubusercontent.com/63194069/180514415-2b13fe7f-701b-44e0-97ba-76d92f7d37af.mp4
 
+
+Link no Youtube: https://youtu.be/C7lmB2ZPCpg
 
 
