@@ -42,5 +42,5 @@ Link do Falstad: https://tinyurl.com/2rypnkuw
 https://user-images.githubusercontent.com/63194069/180037897-30f6aa1d-d2c0-4d30-bce4-e769d137ebbb.mp4
 
 
-
+Link no Youtube: https://youtu.be/vq5_V1Rq8_c
  
